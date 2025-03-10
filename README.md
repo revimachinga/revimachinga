@@ -10,7 +10,6 @@ Currently working with React, React Native, Node.js, and exploring new technolog
 > **- Sun Tzu, The Art of War**
   
 ### 🛠️ Skills, Technologies, and Tools
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
 - **Front-end**: React.js, React Native, Redux, Next.js
 - **Styling Libraries**: Tailwind, Sass, Ant Design, Material UI, Styled Components 
 - **Back-end**: Node.js, Express.js
